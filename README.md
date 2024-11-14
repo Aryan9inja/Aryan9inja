@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan9inja&show_icons=true&locale=en&layout=compact" alt="aryan9inja" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan9inja&" alt="aryan9inja" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aryan9inja)](https://git.io/streak-stats)
