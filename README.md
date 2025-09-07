@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh Thakur</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Full Stack MERN Dev who is trying ML</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan9inja&theme=tokyonight" alt="aryan9inja" /></a> </p>
 
-- 🔭 I’m currently working on [InstaClone](https://github.com/Aryan9inja/Insta-Clone)
+- 🔭 I’m currently working on [Flowceipt](https://github.com/Aryan9inja/Flowceipt)
 
-- 🌱 I’m currently learning **DockerAndCI/CD , SystemProgrammingLanguages**
+- 🌱 I’m currently learning **Machine Learning and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryan9inja](https://github.com/Aryan9inja)
 
 - 💬 Ask me about **Javascript, react, node, mongoDb, cpp, c**
 
-- 📫 How to reach me **aryana123b456@gmail.com**
+- 📫 How to reach me **aryansingh.fullstack@gmail.com**
 
-- ⚡ Fun fact **I am good at games and I love physics**
+- ⚡ Fun fact **I fascinate about space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
