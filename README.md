@@ -1,81 +1,96 @@
 <h1 align="center">Hey 👋, I'm Aryan Singh Thakur</h1>
-<h3 align="center">Full Stack Engineer • Systems Programming Enthusiast</h3>
+<h3 align="center">Software Engineer • Systems Programming • AI Systems</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Full Stack Developer who loves building **real-world scalable applications**
-- ⚙️ Currently diving deep into **Operating Systems, Networking & Low-Level Programming**
-- 🧠 Passionate about understanding software beyond frameworks — from protocols to system calls
+- 💻 Software engineer focused on **backend systems, AI applications, and low-level programming**
+- ⚙️ Interested in understanding how software works **beyond frameworks — from protocols to system calls**
+- 🧠 Building projects across **systems programming, AI pipelines, and full-stack SaaS**
 - 🐧 Linux enthusiast
 
 ---
 
-### 🔭 Current Work
+### 🔥 Featured Projects
 
-- 🧪 Building **[HTTP/1.1 Server in C](https://github.com/Aryan9inja/raw-http-c)**
-  → Persistent connections, socket programming & protocol level understanding
-  
-- 🧾 Built **[Flowceipt](https://github.com/Aryan9inja/Flowceipt)**  → AI powered receipt & expense management system with OCR + automation
+#### ⚙️ Raw HTTP/1.1 Server in C
+→ Event-driven HTTP server built using **POSIX sockets and epoll**
 
-- 🌐 Built **[InstaClone](https://github.com/Aryan9inja/Shutr_Social-media-app)**
-  → Full social media platform using Appwrite, React and Nest.Js for chat services
+- Persistent connections (keep-alive)
+- HTTP request parsing (GET, POST, headers)
+- Static file serving
+- Manual request/response handling
 
-- 📝 Built **[Synote](https://github.com/Aryan9inja/Synote-Frontend)**
-  → AI powered productivity + notes + tasks platform
+🔗 https://github.com/Aryan9inja/raw-http-c
+
+---
+
+#### 🌐 Portly — AI Portfolio Generator
+→ Converts a **PDF resume into a fully generated developer portfolio**
+
+- Resume parsing using **pdf-parse**
+- LLM integration via **OpenRouter (LLaMA-4)**
+- Static site generation with customizable templates
+
+🔗 https://github.com/Aryan9inja/AppwriteHackathonProject
+
+---
+
+#### ⚖️ LexGenAI — Legal Document Generator
+→ **RAG-based system** for generating legal documents and analyzing risks
+
+- MongoDB retrieval with cosine similarity
+- AI-driven clause risk classification
+- Automated legal document generation
+
+🔗 https://github.com/Aryan9inja/LexGenAI
+
+---
+
+#### 🌾 Krishi Setu — Voice AI for Farmers
+→ **Voice-based AI system** enabling farmers to access agricultural guidance via phone calls
+
+- Twilio voice interface
+- Custom **BM25 retriever (<1ms retrieval latency)**
+- In-memory agricultural knowledge base
+
+🔗 https://github.com/Aryan9inja/Krishi-Setu
 
 ---
 
 ### 🌱 Currently Learning
 
-- Systems Programming in C  
-- Computer Networking & OS Internals  
+- Systems Programming in **C**
+- **Operating Systems Internals**
+- **Computer Networking**
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 🌐 Web Development
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
+#### Languages
+C • JavaScript • TypeScript
 
----
+#### Backend
+Node.js • Express • NestJS • REST APIs
 
-#### ⚙️ Backend & Systems
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
+#### Frontend
+React • Next.js • TailwindCSS
 
----
+#### AI / Data
+RAG Systems • BM25 Retrieval • OCR (Tesseract) • LLM Integration
 
-#### 🧰 Tools & Platforms
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-</p>
-
+#### Infrastructure
+Linux • NGINX • AWS • MongoDB • MySQL
 
 ---
 
 ### 🌌 Fun Facts
 
-- 🚀 Fascinated by Space & Astronomy  
-- 🎮 Gamer when brain needs reboot  
-- 🧩 Love reverse engineering & understanding internals  
-- ☕ Can debug anything with enough coffee  
+- 🚀 Fascinated by **Space & Astronomy**
+- 🧩 Enjoy reverse engineering & understanding software internals
+- ☕ Can debug almost anything with enough coffee
 
 ---
 
@@ -84,9 +99,8 @@
 <p>
 <a href="https://x.com/Aryan_fullstack"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/></a>
 <a href="https://www.linkedin.com/in/singharyanthakur/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/></a>
-<a href="https://instagram.com/ary._.an._"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/></a>
 </p>
 
 ---
 
-⭐ *“I enjoy building software that teaches me something new every time.”*
+⭐ *I enjoy building systems that help me understand how software really works.*
