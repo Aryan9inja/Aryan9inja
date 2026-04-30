@@ -57,15 +57,6 @@
 
 ---
 
-#### 🌐 Portly — AI Portfolio Generator
-→ Converts a PDF resume into a fully generated developer portfolio in under 60 seconds
-- Resume parsing with pdf-parse, LLM via OpenRouter (LLaMA-4 Maverick)
-- Static site generation with customizable templates
-
-🔗 https://github.com/Aryan9inja/AppwriteHackathonProject
-
----
-
 ### 💼 Experience
 
 **Full-Stack Developer Intern @ SvaraAI** *(Oct 2025 – Mar 2026)*
