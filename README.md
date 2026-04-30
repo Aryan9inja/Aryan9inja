@@ -1,100 +1,106 @@
 <h1 align="center">Hey 👋, I'm Aryan Singh Thakur</h1>
-<h3 align="center">Software Engineer • Systems Programming • AI Systems</h3>
+<h3 align="center">Backend Engineer • Systems Programming • AI Systems</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Software engineer focused on **backend systems, AI applications, and low-level programming**
-- ⚙️ Interested in understanding how software works **beyond frameworks — from protocols to system calls**
-- 🧠 Building projects across **systems programming, AI pipelines, and full-stack SaaS**
-- 🐧 Linux enthusiast
+- ⚙️ Backend engineer with **6 months of production experience** at a London-registered B2B SaaS startup (SvaraAI)
+- 🔧 Built systems from scratch — **14K req/sec HTTP server in C**, **18.8K req/sec distributed job queue in Go**
+- 🧠 Work across **systems programming, distributed systems, AI pipelines, and full-stack SaaS**
+- 🐧 Linux enthusiast who reads kernel docs for fun
 
 ---
 
 ### 🔥 Featured Projects
 
-#### ⚙️ Raw HTTP/1.1 Server in C
-→ Event-driven HTTP server built using **POSIX sockets and epoll**
+#### ⚙️ GoTaskQ — Distributed Job Queue
+→ Redis-backed job queue built from scratch in **Go**
+- Priority scheduling via lexicographic score encoding on Sorted Sets
+- Atomic Lua-scripted dequeue — eliminates race conditions under concurrent load
+- Retry engine with **exponential backoff + jitter**, Dead Letter Queue, job replay
+- Prometheus metrics: queue depth, job duration histograms, worker utilization
+- **18,800 req/sec** with 100K jobs, 100 concurrent workers — p99 latency **33ms**, zero failed requests
 
-- Persistent connections (keep-alive)
-- HTTP request parsing (GET, POST, headers)
-- Static file serving
-- Manual request/response handling
+🔗 https://github.com/Aryan9inja/gotaskq
+
+---
+
+#### ⚙️ Raw HTTP/1.1 Server in C
+→ Event-driven HTTP server built using **POSIX sockets and epoll**, zero external libraries
+- Non-blocking I/O with request state machine
+- Keep-alive, zero-copy sendfile(), request pipelining
+- Full GET/POST parsing, headers, static file serving, EAGAIN/EWOULDBLOCK handling
+- **14,000+ req/sec**, sub-millisecond latency — **38% throughput improvement** over fork model
 
 🔗 https://github.com/Aryan9inja/raw-http-c
 
 ---
 
-#### 🌐 Portly — AI Portfolio Generator
-→ Converts a **PDF resume into a fully generated developer portfolio**
+#### 🌾 Krishi Setu — Voice AI for Farmers *(Hackathon Project)*
+→ Farmers call one number, speak Hindi or English, get crop/pest/mandi guidance in **under 2 seconds**
+- Twilio Conversation Relay for real-time STT/TTS
+- Hybrid **BM25 + vector retrieval** over 1,000+ knowledge entries — sub-millisecond query latency
+- Swappable LLM client (Groq/OpenAI), stateless WebSocket layer
 
-- Resume parsing using **pdf-parse**
-- LLM integration via **OpenRouter (LLaMA-4)**
+🔗 https://github.com/Aryan9inja/Krishi-Setu | [Demo](https://youtu.be/o92L3jVlEbw)
+
+---
+
+#### ⚖️ LexGenAI — AI Legal Document Generator
+→ RAG-based platform that generates and reviews legal documents
+- Classifies every contract clause into Low/Medium/High risk — cuts manual review time by **60%+**
+- MongoDB Atlas Vector Search for semantic retrieval
+- Live in production with PDF export
+
+🔗 https://github.com/Aryan9inja/LexGenAI | [Live](https://lex-gen-ai.vercel.app/)
+
+---
+
+#### 🌐 Portly — AI Portfolio Generator
+→ Converts a PDF resume into a fully generated developer portfolio in under 60 seconds
+- Resume parsing with pdf-parse, LLM via OpenRouter (LLaMA-4 Maverick)
 - Static site generation with customizable templates
 
 🔗 https://github.com/Aryan9inja/AppwriteHackathonProject
 
 ---
 
-#### ⚖️ LexGenAI — Legal Document Generator
-→ **RAG-based system** for generating legal documents and analyzing risks
+### 💼 Experience
 
-- MongoDB retrieval with cosine similarity
-- AI-driven clause risk classification
-- Automated legal document generation
-
-🔗 https://github.com/Aryan9inja/LexGenAI
-
----
-
-#### 🌾 Krishi Setu — Voice AI for Farmers
-→ **Voice-based AI system** enabling farmers to access agricultural guidance via phone calls
-
-- Twilio voice interface
-- Custom **BM25 retriever (<1ms retrieval latency)**
-- In-memory agricultural knowledge base
-
-🔗 https://github.com/Aryan9inja/Krishi-Setu
-
----
-
-### 🌱 Currently Learning
-
-- Systems Programming in **C**
-- **Operating Systems Internals**
-- **Computer Networking**
+**Full-Stack Developer Intern @ SvaraAI** *(Oct 2025 – Mar 2026)*
+London-registered B2B SaaS startup — Remote
+- NestJS/Node.js microservices handling **1,000+ API requests/day** across **5+ business clients**
+- Production email pipeline via Azure Email Services — **500+ emails/day**, SPF/DKIM/DMARC configured
+- AWS EC2 + NGINX + MySQL infrastructure, CI/CD with GitHub Actions
 
 ---
 
 ### 🛠 Tech Stack
 
-#### Languages
-C • JavaScript • TypeScript
+**Languages:** C • C++ • Go • JavaScript • TypeScript
 
-#### Backend
-Node.js • Express • NestJS • REST APIs
+**Backend:** Node.js • NestJS • Express • REST APIs • WebSockets • Microservices
 
-#### Frontend
-React • Next.js • TailwindCSS
+**Frontend:** React • Next.js • TailwindCSS
 
-#### AI / Data
-RAG Systems • BM25 Retrieval • OCR (Tesseract) • LLM Integration
+**Databases:** MySQL • MongoDB • Redis • Vector Search
 
-#### Infrastructure
-Linux • NGINX • AWS • MongoDB • MySQL
+**AI / Data:** RAG Systems • BM25 Retrieval • LLM Integration (OpenAI, LLaMA) • Semantic Search • OCR
+
+**Infrastructure:** AWS EC2 • NGINX • Linux • Docker • Prometheus • Azure Email Services • GitHub Actions
 
 ---
 
 ### 🌌 Fun Facts
 
 - 🚀 Fascinated by **Space & Astronomy**
-- 🧩 Enjoy reverse engineering & understanding software internals
+- 🧩 Enjoy reverse engineering and understanding software internals
 - ☕ Can debug almost anything with enough coffee
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect
 
 <p>
 <a href="https://x.com/Aryan_fullstack"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/></a>
@@ -103,4 +109,4 @@ Linux • NGINX • AWS • MongoDB • MySQL
 
 ---
 
-⭐ *I enjoy building systems that help me understand how software really works.*
+⭐ *I build systems to understand how software really works — from the kernel up.*
