@@ -20,7 +20,9 @@
 - Atomic Lua-scripted dequeue — eliminates race conditions under concurrent load
 - Retry engine with **exponential backoff + jitter**, Dead Letter Queue, job replay
 - Prometheus metrics: queue depth, job duration histograms, worker utilization
-- **18,800 req/sec** with 100K jobs, 100 concurrent workers — p99 latency **33ms**, zero failed requests
+- Multiple queue support using round robin polling for job processing.
+- **76,800 req/sec across 3 queues** zero failed requests (in memory interface)
+- **17,040 req/sec across 3 queues** zero failed requests (redis based interface)
 
 🔗 https://github.com/Aryan9inja/gotaskq
 
@@ -61,25 +63,31 @@
 
 **Full-Stack Developer Intern @ SvaraAI** *(Oct 2025 – Mar 2026)*
 London-registered B2B SaaS startup — Remote
-- NestJS/Node.js microservices handling **1,000+ API requests/day** across **5+ business clients**
-- Production email pipeline via Azure Email Services — **500+ emails/day**, SPF/DKIM/DMARC configured
-- AWS EC2 + NGINX + MySQL infrastructure, CI/CD with GitHub Actions
+- Developed microservice for domain based email architecture. Created Inbound SMTP using node.js and Outbound
+using Azure email services. Created a schema based routing for inbound and outbound email.
+- Spotted unauthorized user on companies VM, got to know it was because of open ports. Removed the user using
+sudo privelages, also removed the cron job he created. After that secured the system by blocking unused ports and
+increased firewall strictness on used ports.
+- Completed auth migration from per user based auth to organization based auth with RBAC, zero downtime DB
+migrations.
+- Created a CI/CD pipeline from scratch that used github webhooks and ran bash scripts on server for deployment.
+- Created a custom text editor with font support and style support like lists that converted text to html to be shared
+in email for proper rendering.
+- Wrote NGINX setup scripts for different services with domain certificate registration.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages:** C • C++ • Go • JavaScript • TypeScript
+**Languages:** Go, Typescript, C/C++, SQL (MySQL/PostgreSQL), JavaScript, HTML, CSS
 
-**Backend:** Node.js • NestJS • Express • REST APIs • WebSockets • Microservices
+**Frameworks:** React, Next.js, Nest.js, Express, TailwindCSS
 
-**Frontend:** React • Next.js • TailwindCSS
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
-**Databases:** MySQL • MongoDB • Redis • Vector Search
+**Developer Tools:** Git, Github, Azure Cloud, Postman, AWS, Linux, Docker
 
-**AI / Data:** RAG Systems • BM25 Retrieval • LLM Integration (OpenAI, LLaMA) • Semantic Search • OCR
-
-**Infrastructure:** AWS EC2 • NGINX • Linux • Docker • Prometheus • Azure Email Services • GitHub Actions
+**Artificial Intelligence:** LLM API’s, Prompt Engineering, Gen-AI, RAG
 
 ---
 
