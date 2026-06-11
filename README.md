@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - ⚙️ Backend engineer with **6 months of production experience** at a London-registered B2B SaaS startup (SvaraAI)
-- 🔧 Built systems from scratch — **14K req/sec HTTP server in C**, **18.8K req/sec distributed job queue in Go**
+- 🔧 Built systems from scratch — **14K req/sec HTTP server in C** and **17.04K req/sec distributed job queue in Go**
 - 🧠 Work across **systems programming, distributed systems, AI pipelines, and full-stack SaaS**
 - 🐧 Linux enthusiast who reads kernel docs for fun
 
