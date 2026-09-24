@@ -1,0 +1,912 @@
+
+<svg width="800" height="990.5" viewBox="0 0 800 990.5" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
+
+    * {
+      box-sizing: border-box;
+    }
+
+    text {
+      user-select: none;
+    }
+
+    .gitascii-canvas-bg {
+      fill: #0d1117;
+      transition: fill 0.3s ease;
+    }
+
+    @media (prefers-color-scheme: light) {
+      .gitascii-canvas-bg {
+        fill: #ffffff !important;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .gitascii-canvas-bg {
+        fill: #0d1117 !important;
+      }
+    }
+  </style>
+
+  <rect class="" width="800" height="990.5" fill="#060606" rx="0" />
+
+  
+    <g transform="translate(520, 20.5)" id="widget-widget_1790270023804">
+
+      
+      
+      <rect class="" x="0" y="0" width="256" height="375" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    
+    <svg width="224" height="343" x="16" y="16" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#141414" rx="6" ry="6" stroke="#333" stroke-dasharray="4" />
+            <text x="50%" y="50%" fill="#888888" font-family="monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">Failed to load widget</text>
+          </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(-6, 305)" id="widget-widget_1790270139412">
+
+      
+      
+      
+      
+      <svg
+  xmlns="http://www.w3.org/2000/svg"
+  id="widget_1790270139412"
+  width="420"
+  height="420"
+  viewBox="0 0 400 230"
+  preserveAspectRatio="xMidYMid meet"
+  fill="none"
+>
+  <style>
+    
+    #widget_1790270139412 text {
+      font-family: 'JetBrains Mono', 'Courier New', Consolas, monospace;
+      font-size: 12px;
+      fill: #e5e5e5;
+      white-space: pre;
+    }
+  
+    #widget_1790270139412 .frame-0 { animation: show-widget_1790270139412-0 1.6s forwards; }
+    @keyframes show-widget_1790270139412-0 { 0%, 6.29% { opacity: 1; } 6.3%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-1 { opacity: 0; animation: show-widget_1790270139412-1 1.6s forwards; }
+    @keyframes show-widget_1790270139412-1 { 0%, 6.29% { opacity: 0; } 6.3%, 12.49% { opacity: 1; } 12.5%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-2 { opacity: 0; animation: show-widget_1790270139412-2 1.6s forwards; }
+    @keyframes show-widget_1790270139412-2 { 0%, 12.49% { opacity: 0; } 12.5%, 18.79% { opacity: 1; } 18.8%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-3 { opacity: 0; animation: show-widget_1790270139412-3 1.6s forwards; }
+    @keyframes show-widget_1790270139412-3 { 0%, 18.79% { opacity: 0; } 18.8%, 24.99% { opacity: 1; } 25.0%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-4 { opacity: 0; animation: show-widget_1790270139412-4 1.6s forwards; }
+    @keyframes show-widget_1790270139412-4 { 0%, 24.99% { opacity: 0; } 25.0%, 31.29% { opacity: 1; } 31.3%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-5 { opacity: 0; animation: show-widget_1790270139412-5 1.6s forwards; }
+    @keyframes show-widget_1790270139412-5 { 0%, 31.29% { opacity: 0; } 31.3%, 37.49% { opacity: 1; } 37.5%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-6 { opacity: 0; animation: show-widget_1790270139412-6 1.6s forwards; }
+    @keyframes show-widget_1790270139412-6 { 0%, 37.49% { opacity: 0; } 37.5%, 43.79% { opacity: 1; } 43.8%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-7 { opacity: 0; animation: show-widget_1790270139412-7 1.6s forwards; }
+    @keyframes show-widget_1790270139412-7 { 0%, 43.79% { opacity: 0; } 43.8%, 49.99% { opacity: 1; } 50.0%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-8 { opacity: 0; animation: show-widget_1790270139412-8 1.6s forwards; }
+    @keyframes show-widget_1790270139412-8 { 0%, 49.99% { opacity: 0; } 50.0%, 56.29% { opacity: 1; } 56.3%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-9 { opacity: 0; animation: show-widget_1790270139412-9 1.6s forwards; }
+    @keyframes show-widget_1790270139412-9 { 0%, 56.29% { opacity: 0; } 56.3%, 62.49% { opacity: 1; } 62.5%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-10 { opacity: 0; animation: show-widget_1790270139412-10 1.6s forwards; }
+    @keyframes show-widget_1790270139412-10 { 0%, 62.49% { opacity: 0; } 62.5%, 68.78999999999999% { opacity: 1; } 68.8%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-11 { opacity: 0; animation: show-widget_1790270139412-11 1.6s forwards; }
+    @keyframes show-widget_1790270139412-11 { 0%, 68.78999999999999% { opacity: 0; } 68.8%, 74.99% { opacity: 1; } 75.0%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-12 { opacity: 0; animation: show-widget_1790270139412-12 1.6s forwards; }
+    @keyframes show-widget_1790270139412-12 { 0%, 74.99% { opacity: 0; } 75.0%, 81.28999999999999% { opacity: 1; } 81.3%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-13 { opacity: 0; animation: show-widget_1790270139412-13 1.6s forwards; }
+    @keyframes show-widget_1790270139412-13 { 0%, 81.28999999999999% { opacity: 0; } 81.3%, 87.49% { opacity: 1; } 87.5%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-14 { opacity: 0; animation: show-widget_1790270139412-14 1.6s forwards; }
+    @keyframes show-widget_1790270139412-14 { 0%, 87.49% { opacity: 0; } 87.5%, 93.78999999999999% { opacity: 1; } 93.8%, 100% { opacity: 0; } }
+    #widget_1790270139412 .frame-15 { opacity: 0; animation: show-widget_1790270139412-15 1.6s forwards; }
+    @keyframes show-widget_1790270139412-15 { 0%, 93.78999999999999% { opacity: 0; } 93.8%, 100% { opacity: 1; } }
+  </style>
+  
+    <g class="frame-0">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">  0%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">  0%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">  0%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">  0%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950"></tspan><tspan fill="#21262d">                </tspan> <tspan fill="#39c5cf" font-weight="bold">  0%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-1">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">  7%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">  6%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">  5%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">  4%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">  7%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-2">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold"> 13%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold"> 12%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold"> 10%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">█</tspan><tspan fill="#21262d">               </tspan> <tspan fill="#39c5cf" font-weight="bold">  7%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold"> 13%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-3">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">███</tspan><tspan fill="#21262d">             </tspan> <tspan fill="#39c5cf" font-weight="bold"> 20%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">███</tspan><tspan fill="#21262d">             </tspan> <tspan fill="#39c5cf" font-weight="bold"> 18%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold"> 15%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold"> 11%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">███</tspan><tspan fill="#21262d">             </tspan> <tspan fill="#39c5cf" font-weight="bold"> 20%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-4">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">████</tspan><tspan fill="#21262d">            </tspan> <tspan fill="#39c5cf" font-weight="bold"> 27%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">████</tspan><tspan fill="#21262d">            </tspan> <tspan fill="#39c5cf" font-weight="bold"> 25%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">███</tspan><tspan fill="#21262d">             </tspan> <tspan fill="#39c5cf" font-weight="bold"> 20%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">██</tspan><tspan fill="#21262d">              </tspan> <tspan fill="#39c5cf" font-weight="bold"> 14%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">████</tspan><tspan fill="#21262d">            </tspan> <tspan fill="#39c5cf" font-weight="bold"> 27%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-5">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">█████</tspan><tspan fill="#21262d">           </tspan> <tspan fill="#39c5cf" font-weight="bold"> 33%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">█████</tspan><tspan fill="#21262d">           </tspan> <tspan fill="#39c5cf" font-weight="bold"> 31%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">████</tspan><tspan fill="#21262d">            </tspan> <tspan fill="#39c5cf" font-weight="bold"> 25%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">███</tspan><tspan fill="#21262d">             </tspan> <tspan fill="#39c5cf" font-weight="bold"> 18%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">█████</tspan><tspan fill="#21262d">           </tspan> <tspan fill="#39c5cf" font-weight="bold"> 33%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-6">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">██████</tspan><tspan fill="#21262d">          </tspan> <tspan fill="#39c5cf" font-weight="bold"> 40%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">██████</tspan><tspan fill="#21262d">          </tspan> <tspan fill="#39c5cf" font-weight="bold"> 37%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">█████</tspan><tspan fill="#21262d">           </tspan> <tspan fill="#39c5cf" font-weight="bold"> 30%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">███</tspan><tspan fill="#21262d">             </tspan> <tspan fill="#39c5cf" font-weight="bold"> 21%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">██████</tspan><tspan fill="#21262d">          </tspan> <tspan fill="#39c5cf" font-weight="bold"> 40%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-7">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">████████</tspan><tspan fill="#21262d">        </tspan> <tspan fill="#39c5cf" font-weight="bold"> 47%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">███████</tspan><tspan fill="#21262d">         </tspan> <tspan fill="#39c5cf" font-weight="bold"> 43%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">██████</tspan><tspan fill="#21262d">          </tspan> <tspan fill="#39c5cf" font-weight="bold"> 35%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">████</tspan><tspan fill="#21262d">            </tspan> <tspan fill="#39c5cf" font-weight="bold"> 25%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">████████</tspan><tspan fill="#21262d">        </tspan> <tspan fill="#39c5cf" font-weight="bold"> 47%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-8">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">████████</tspan><tspan fill="#21262d">        </tspan> <tspan fill="#39c5cf" font-weight="bold"> 53%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">████████</tspan><tspan fill="#21262d">        </tspan> <tspan fill="#39c5cf" font-weight="bold"> 49%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">██████</tspan><tspan fill="#21262d">          </tspan> <tspan fill="#39c5cf" font-weight="bold"> 40%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">████</tspan><tspan fill="#21262d">            </tspan> <tspan fill="#39c5cf" font-weight="bold"> 28%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">████████</tspan><tspan fill="#21262d">        </tspan> <tspan fill="#39c5cf" font-weight="bold"> 53%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-9">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">██████████</tspan><tspan fill="#21262d">      </tspan> <tspan fill="#39c5cf" font-weight="bold"> 60%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">█████████</tspan><tspan fill="#21262d">       </tspan> <tspan fill="#39c5cf" font-weight="bold"> 55%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">███████</tspan><tspan fill="#21262d">         </tspan> <tspan fill="#39c5cf" font-weight="bold"> 45%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">█████</tspan><tspan fill="#21262d">           </tspan> <tspan fill="#39c5cf" font-weight="bold"> 32%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">██████████</tspan><tspan fill="#21262d">      </tspan> <tspan fill="#39c5cf" font-weight="bold"> 60%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-10">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">███████████</tspan><tspan fill="#21262d">     </tspan> <tspan fill="#39c5cf" font-weight="bold"> 67%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">██████████</tspan><tspan fill="#21262d">      </tspan> <tspan fill="#39c5cf" font-weight="bold"> 61%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">████████</tspan><tspan fill="#21262d">        </tspan> <tspan fill="#39c5cf" font-weight="bold"> 50%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">██████</tspan><tspan fill="#21262d">          </tspan> <tspan fill="#39c5cf" font-weight="bold"> 35%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">███████████</tspan><tspan fill="#21262d">     </tspan> <tspan fill="#39c5cf" font-weight="bold"> 67%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-11">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">████████████</tspan><tspan fill="#21262d">    </tspan> <tspan fill="#39c5cf" font-weight="bold"> 73%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">███████████</tspan><tspan fill="#21262d">     </tspan> <tspan fill="#39c5cf" font-weight="bold"> 67%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">█████████</tspan><tspan fill="#21262d">       </tspan> <tspan fill="#39c5cf" font-weight="bold"> 55%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">██████</tspan><tspan fill="#21262d">          </tspan> <tspan fill="#39c5cf" font-weight="bold"> 39%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">████████████</tspan><tspan fill="#21262d">    </tspan> <tspan fill="#39c5cf" font-weight="bold"> 73%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-12">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">█████████████</tspan><tspan fill="#21262d">   </tspan> <tspan fill="#39c5cf" font-weight="bold"> 80%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">████████████</tspan><tspan fill="#21262d">    </tspan> <tspan fill="#39c5cf" font-weight="bold"> 74%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">██████████</tspan><tspan fill="#21262d">      </tspan> <tspan fill="#39c5cf" font-weight="bold"> 60%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">███████</tspan><tspan fill="#21262d">         </tspan> <tspan fill="#39c5cf" font-weight="bold"> 42%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">█████████████</tspan><tspan fill="#21262d">   </tspan> <tspan fill="#39c5cf" font-weight="bold"> 80%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-13">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">██████████████</tspan><tspan fill="#21262d">  </tspan> <tspan fill="#39c5cf" font-weight="bold"> 87%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">█████████████</tspan><tspan fill="#21262d">   </tspan> <tspan fill="#39c5cf" font-weight="bold"> 80%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">██████████</tspan><tspan fill="#21262d">      </tspan> <tspan fill="#39c5cf" font-weight="bold"> 65%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">███████</tspan><tspan fill="#21262d">         </tspan> <tspan fill="#39c5cf" font-weight="bold"> 46%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">██████████████</tspan><tspan fill="#21262d">  </tspan> <tspan fill="#39c5cf" font-weight="bold"> 87%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-14">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">███████████████</tspan><tspan fill="#21262d"> </tspan> <tspan fill="#39c5cf" font-weight="bold"> 93%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">██████████████</tspan><tspan fill="#21262d">  </tspan> <tspan fill="#39c5cf" font-weight="bold"> 86%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">███████████</tspan><tspan fill="#21262d">     </tspan> <tspan fill="#39c5cf" font-weight="bold"> 70%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">████████</tspan><tspan fill="#21262d">        </tspan> <tspan fill="#39c5cf" font-weight="bold"> 49%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">███████████████</tspan><tspan fill="#21262d"> </tspan> <tspan fill="#39c5cf" font-weight="bold"> 93%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-15">
+    <text x="20" y="25"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
+    <text x="20" y="42"><tspan fill="#30363d">│</tspan>                       <tspan fill="#3fb950" font-weight="bold">DNA</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="59"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="76"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Builder     </tspan><tspan fill="#3fb950">████████████████</tspan><tspan fill="#21262d"></tspan> <tspan fill="#39c5cf" font-weight="bold">100%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="93"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintainer  </tspan><tspan fill="#3fb950">███████████████</tspan><tspan fill="#21262d"> </tspan> <tspan fill="#39c5cf" font-weight="bold"> 92%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="110"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source </tspan><tspan fill="#3fb950">████████████</tspan><tspan fill="#21262d">    </tspan> <tspan fill="#39c5cf" font-weight="bold"> 75%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="127"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community   </tspan><tspan fill="#3fb950">████████</tspan><tspan fill="#21262d">        </tspan> <tspan fill="#39c5cf" font-weight="bold"> 53%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="144"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Explorer    </tspan><tspan fill="#3fb950">████████████████</tspan><tspan fill="#21262d"></tspan> <tspan fill="#39c5cf" font-weight="bold">100%</tspan>             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="161"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="178"><tspan fill="#30363d">│</tspan>  <tspan fill="#ffbd2e" font-weight="bold">PRIMARY ARCHETYPE</tspan>                             <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="195"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">&gt; THE BUILDER</tspan>                              <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="212"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
+  </g>
+
+</svg>
+  
+    </g>
+  
+
+    <g transform="translate(400, 415)" id="widget-widget_1790270776883">
+
+      
+      
+      <rect class="" x="0" y="0" width="376" height="200" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ DEVELOPER QUOTE ]</text>
+    <g class="developer-quote-card">
+      <rect x="12" y="44" width="352" height="144" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      
+      <g transform="translate(28, 70)">
+        <path d="M3 21c3 0 7-1 7-8V5c0-1.25-.75-2-2-2H4c-1.25 0-2 .75-2 2v6c0 1.25.75 2 2 2h3c-.5 4-2 6-4 6zM17 21c3 0 7-1 7-8V5c0-1.25-.75-2-2-2h-4c-1.25 0-2 .75-2 2v6c0 1.25.75 2 2 2h3c-.5 4-2 6-4 6z" fill="#c5ff4a" transform="scale(0.7)" opacity="0.85" />
+      </g>
+
+      <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
+        <tspan x="58" y="84">“Optimism is an occupational</tspan><tspan x="58" y="104">hazard of programming: feedback</tspan><tspan x="58" y="124">is the treatment.”</tspan>
+      </text>
+
+      <text x="344" y="162" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
+        — Kent Beck
+      </text>
+
+      <circle cx="346" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
+    </g>
+  
+  
+    </g>
+  
+
+    <g transform="translate(18, 634.5)" id="widget-widget_1790272057097">
+
+      
+      
+      <rect class="" x="0" y="0" width="758" height="340" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+      <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ FEATURED REPOSITORIES ]</text>
+      
+        <g transform="translate(24, 50)">
+          <rect x="0" y="0" width="349" height="80" fill="#1e1e1e" rx="4" />
+          <rect x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2" />
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">gotaskq</text>
+          <text x="341" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 6</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">Redis-backed distributed job queue in Go…</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">Go</text>
+          
+        </g>
+      
+        <g transform="translate(385, 50)">
+          <rect x="0" y="0" width="349" height="80" fill="#1e1e1e" rx="4" />
+          <rect x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2" />
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">codebolt</text>
+          <text x="341" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 1</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">Go</text>
+          
+        </g>
+      
+        <g transform="translate(24, 142)">
+          <rect x="0" y="0" width="349" height="80" fill="#1e1e1e" rx="4" />
+          <rect x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2" />
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">Krishi-Setu</text>
+          <text x="341" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 2</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">Voice-based AI system helping farmers ac…</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">TypeScript</text>
+          
+        </g>
+      
+        <g transform="translate(385, 142)">
+          <rect x="0" y="0" width="349" height="80" fill="#1e1e1e" rx="4" />
+          <rect x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2" />
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">raw-http-c</text>
+          <text x="341" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 4</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">HTTP/1.1 server built in C using POSIX s…</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">C</text>
+          
+        </g>
+      
+        <g transform="translate(24, 234)">
+          <rect x="0" y="0" width="349" height="80" fill="#1e1e1e" rx="4" />
+          <rect x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2" />
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">RookDB</text>
+          <text x="341" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">Go</text>
+          
+        </g>
+      
+        <g transform="translate(385, 234)">
+          <rect x="0" y="0" width="349" height="80" fill="#1e1e1e" rx="4" />
+          <rect x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2" />
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">DSA</text>
+          <text x="341" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">No description.</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">C++</text>
+          
+        </g>
+      
+    
+  
+    </g>
+  
+
+    <g transform="translate(0, -52)" id="widget-widget_1790269825951">
+
+      
+      
+      
+      
+      <svg
+  xmlns="http://www.w3.org/2000/svg"
+  id="widget_1790269825951"
+  width="520"
+  height="520"
+  viewBox="0 0 520 440"
+  preserveAspectRatio="xMidYMid meet"
+  fill="none"
+>
+  <style>
+    
+    #widget_1790269825951 text {
+      font-family: 'JetBrains Mono', 'Courier New', Consolas, monospace;
+      font-size: 12px;
+      fill: #e5e5e5;
+      white-space: pre;
+    }
+    #widget_1790269825951 .cursor { animation: blink-widget_1790269825951 0.8s infinite; }
+    @keyframes blink-widget_1790269825951 {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  
+    #widget_1790269825951 .frame-0 { animation: show-widget_1790269825951-0 1.6s forwards; }
+    @keyframes show-widget_1790269825951-0 { 0%, 6.29% { opacity: 1; } 6.3%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-1 { opacity: 0; animation: show-widget_1790269825951-1 1.6s forwards; }
+    @keyframes show-widget_1790269825951-1 { 0%, 6.29% { opacity: 0; } 6.3%, 12.49% { opacity: 1; } 12.5%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-2 { opacity: 0; animation: show-widget_1790269825951-2 1.6s forwards; }
+    @keyframes show-widget_1790269825951-2 { 0%, 12.49% { opacity: 0; } 12.5%, 18.79% { opacity: 1; } 18.8%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-3 { opacity: 0; animation: show-widget_1790269825951-3 1.6s forwards; }
+    @keyframes show-widget_1790269825951-3 { 0%, 18.79% { opacity: 0; } 18.8%, 24.99% { opacity: 1; } 25.0%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-4 { opacity: 0; animation: show-widget_1790269825951-4 1.6s forwards; }
+    @keyframes show-widget_1790269825951-4 { 0%, 24.99% { opacity: 0; } 25.0%, 31.29% { opacity: 1; } 31.3%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-5 { opacity: 0; animation: show-widget_1790269825951-5 1.6s forwards; }
+    @keyframes show-widget_1790269825951-5 { 0%, 31.29% { opacity: 0; } 31.3%, 37.49% { opacity: 1; } 37.5%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-6 { opacity: 0; animation: show-widget_1790269825951-6 1.6s forwards; }
+    @keyframes show-widget_1790269825951-6 { 0%, 37.49% { opacity: 0; } 37.5%, 43.79% { opacity: 1; } 43.8%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-7 { opacity: 0; animation: show-widget_1790269825951-7 1.6s forwards; }
+    @keyframes show-widget_1790269825951-7 { 0%, 43.79% { opacity: 0; } 43.8%, 49.99% { opacity: 1; } 50.0%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-8 { opacity: 0; animation: show-widget_1790269825951-8 1.6s forwards; }
+    @keyframes show-widget_1790269825951-8 { 0%, 49.99% { opacity: 0; } 50.0%, 56.29% { opacity: 1; } 56.3%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-9 { opacity: 0; animation: show-widget_1790269825951-9 1.6s forwards; }
+    @keyframes show-widget_1790269825951-9 { 0%, 56.29% { opacity: 0; } 56.3%, 62.49% { opacity: 1; } 62.5%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-10 { opacity: 0; animation: show-widget_1790269825951-10 1.6s forwards; }
+    @keyframes show-widget_1790269825951-10 { 0%, 62.49% { opacity: 0; } 62.5%, 68.78999999999999% { opacity: 1; } 68.8%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-11 { opacity: 0; animation: show-widget_1790269825951-11 1.6s forwards; }
+    @keyframes show-widget_1790269825951-11 { 0%, 68.78999999999999% { opacity: 0; } 68.8%, 74.99% { opacity: 1; } 75.0%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-12 { opacity: 0; animation: show-widget_1790269825951-12 1.6s forwards; }
+    @keyframes show-widget_1790269825951-12 { 0%, 74.99% { opacity: 0; } 75.0%, 81.28999999999999% { opacity: 1; } 81.3%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-13 { opacity: 0; animation: show-widget_1790269825951-13 1.6s forwards; }
+    @keyframes show-widget_1790269825951-13 { 0%, 81.28999999999999% { opacity: 0; } 81.3%, 87.49% { opacity: 1; } 87.5%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-14 { opacity: 0; animation: show-widget_1790269825951-14 1.6s forwards; }
+    @keyframes show-widget_1790269825951-14 { 0%, 87.49% { opacity: 0; } 87.5%, 93.78999999999999% { opacity: 1; } 93.8%, 100% { opacity: 0; } }
+    #widget_1790269825951 .frame-15 { opacity: 0; animation: show-widget_1790269825951-15 1.6s forwards; }
+    @keyframes show-widget_1790269825951-15 { 0%, 93.78999999999999% { opacity: 0; } 93.8%, 100% { opacity: 1; } }
+  </style>
+  
+    <g class="frame-0">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">0                    </tspan><tspan fill="#e5e5e5">0                    </tspan><tspan fill="#3fb950">0</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  0%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  0%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  0%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  0%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  0%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-1">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">1                    </tspan><tspan fill="#e5e5e5">0                    </tspan><tspan fill="#3fb950">58</tspan>                     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  2%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  2%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  1%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  1%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  1%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-2">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">3                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">117</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  4%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  3%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  3%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  2%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  2%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-3">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">4                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">175</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  6%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  5%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  4%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  3%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  3%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-4">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">6                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">234</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  8%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  6%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  6%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  4%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  3%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-5">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">7                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">292</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 10%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  8%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  7%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  5%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  4%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-6">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">8                    </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">351</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 11%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950">  9%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950">  9%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  6%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  5%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-7">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">10                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">409</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 13%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 11%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 10%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  7%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  6%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-8">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">11                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">468</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 15%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 12%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 11%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  8%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  7%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-9">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">13                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">526</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 17%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 14%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 13%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950">  9%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  8%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-10">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">14                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">585</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 19%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 15%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 14%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 10%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  8%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-11">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">15                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">643</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 21%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 17%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 16%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 10%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950">  9%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-12">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">17                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">702</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 23%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 19%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 17%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 11%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 10%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-13">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">18                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">760</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 25%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 20%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 19%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 12%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 11%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-14">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">20                   </tspan><tspan fill="#e5e5e5">4                    </tspan><tspan fill="#3fb950">819</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#####</tspan><tspan fill="#8b949e">─────────────</tspan>] <tspan fill="#3fb950"> 27%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 22%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 20%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 13%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 12%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+  <g class="frame-15">
+    <text x="15" y="37"><tspan fill="#30363d">┌──────────────────────────────────────────────────────────────────┐</tspan></text>
+    <text x="15" y="54"><tspan fill="#30363d">│</tspan>                        <tspan fill="#3fb950" font-weight="bold">Aryan Singh Thakur</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="71"><tspan fill="#30363d">│</tspan>                        <tspan fill="#8b949e">──────────────────</tspan>                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="88"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Full Stack Developer</tspan>                                             <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="105"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Backend Engineer</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="122"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">AI Systems</tspan>                                                       <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="139"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">21                   </tspan><tspan fill="#e5e5e5">4                    </tspan><tspan fill="#3fb950">877</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#####</tspan><tspan fill="#8b949e">─────────────</tspan>] <tspan fill="#3fb950"> 29%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="309"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Go                                  </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 23%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="326"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">JavaScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 21%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="343"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">CSS                                 </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 14%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="360"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">HTML                                </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 13%</tspan>   <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="377"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="394"><tspan fill="#30363d">│</tspan> <tspan fill="#3fb950">@Aryan9inja</tspan><tspan fill="#8b949e">:~$</tspan> <tspan class="cursor" fill="#3fb950">█</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="411"><tspan fill="#30363d">└──────────────────────────────────────────────────────────────────┘</tspan></text>
+  </g>
+
+</svg>
+  
+    </g>
+  
+</svg>
