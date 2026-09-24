@@ -1,4 +1,5 @@
 {
+  "username": "Aryan9inja",
   "widgets": [
     {
       "instanceId": "widget_1790269825951",
@@ -47,7 +48,7 @@
         "y": 20.5
       },
       "size": {
-        "width": 256,
+        "width": 257,
         "height": 375
       },
       "config": {
@@ -157,5 +158,10 @@
     "templateStyle": "native",
     "transparentBackground": false
   },
-  "templateId": "cyberpunk"
+  "templateId": "cyberpunk",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790274304688_67krd",
+    "updatedAt": "2026-09-24T18:25:07.797Z"
+  }
 }
