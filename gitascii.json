@@ -128,12 +128,12 @@
       "widgetId": "custom-image",
       "name": "Custom-image Widget",
       "position": {
-        "x": 488,
-        "y": 6
+        "x": 500,
+        "y": 8
       },
       "size": {
-        "width": 312,
-        "height": 404
+        "width": 300,
+        "height": 400
       },
       "config": {
         "sourceType": "url",
@@ -143,7 +143,7 @@
         "hideBorder": true,
         "hideDecorations": true
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 5
     }
@@ -163,7 +163,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790274901937_n9pg3",
-    "updatedAt": "2026-09-24T18:35:04.539Z"
+    "revision": "rev_1790274964282_1zoiz",
+    "updatedAt": "2026-09-24T18:36:07.372Z"
   }
 }
