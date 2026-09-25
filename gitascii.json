@@ -33,7 +33,15 @@
         "hideBorder": true,
         "hideDecorations": true,
         "langsCount": 5,
-        "animated": true
+        "animated": true,
+        "hideLangsArr": [
+          "Dockerfile",
+          "Makefile",
+          "Shell",
+          "HTML",
+          "CSS"
+        ],
+        "hideLangs": "Dockerfile,Makefile,Shell,HTML,CSS"
       },
       "locked": true,
       "visible": true,
@@ -80,7 +88,8 @@
       },
       "config": {
         "hideBorder": false,
-        "hideDecorations": false
+        "hideDecorations": false,
+        "quoteType": "quote-day"
       },
       "locked": true,
       "visible": true,
@@ -119,7 +128,7 @@
         "showRepoDesc": false,
         "showRepoForks": false
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 6
     },
@@ -163,7 +172,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790274964282_1zoiz",
-    "updatedAt": "2026-09-24T18:36:07.372Z"
+    "revision": "rev_1790313756346_8j7jv",
+    "updatedAt": "2026-09-25T05:22:46.939Z"
   }
 }
