@@ -336,11 +336,11 @@
       </g>
 
       <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
-        <tspan x="58" y="94">“First, solve the problem. Then,</tspan><tspan x="58" y="114">write the code.”</tspan>
+        <tspan x="58" y="94">“Simplicity is prerequisite for</tspan><tspan x="58" y="114">reliability.”</tspan>
       </text>
 
       <text x="344" y="152" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
-        — John Johnson
+        — Edsger W. Dijkstra
       </text>
 
       <circle cx="346" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
@@ -564,7 +564,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">3                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">124</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">3                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">125</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  4%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -589,7 +589,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">4                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">186</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">4                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">187</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  7%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -614,7 +614,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">6                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">248</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">6                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">249</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950">  9%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -639,7 +639,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">7                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">310</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">7                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">312</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 11%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -664,7 +664,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">8                    </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">372</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">8                    </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">374</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 13%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -689,7 +689,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">10                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">434</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">10                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">436</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 15%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -714,7 +714,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">11                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">495</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">11                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">499</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 17%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -739,7 +739,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">13                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">557</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">13                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">561</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 20%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -764,7 +764,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">14                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">619</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">14                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">623</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 22%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -789,7 +789,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">15                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">681</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">15                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">686</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 24%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -814,7 +814,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">17                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">743</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">17                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">748</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#####</tspan><tspan fill="#8b949e">─────────────</tspan>] <tspan fill="#3fb950"> 26%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -839,7 +839,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">18                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">805</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">18                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">810</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#####</tspan><tspan fill="#8b949e">─────────────</tspan>] <tspan fill="#3fb950"> 28%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -864,7 +864,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">20                   </tspan><tspan fill="#e5e5e5">4                    </tspan><tspan fill="#3fb950">867</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">20                   </tspan><tspan fill="#e5e5e5">4                    </tspan><tspan fill="#3fb950">873</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#####</tspan><tspan fill="#8b949e">─────────────</tspan>] <tspan fill="#3fb950"> 30%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -889,7 +889,7 @@
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">21                   </tspan><tspan fill="#e5e5e5">4                    </tspan><tspan fill="#3fb950">929</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">21                   </tspan><tspan fill="#e5e5e5">4                    </tspan><tspan fill="#3fb950">935</tspan>                    <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">######</tspan><tspan fill="#8b949e">────────────</tspan>] <tspan fill="#3fb950"> 33%</tspan>   <tspan fill="#30363d">│</tspan></text>
