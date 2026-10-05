@@ -336,11 +336,11 @@
       </g>
 
       <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
-        <tspan x="58" y="94">“It&apos;s not a bug – it&apos;s an</tspan><tspan x="58" y="114">undocumented feature.”</tspan>
+        <tspan x="58" y="94">“Make it work, make it right,</tspan><tspan x="58" y="114">make it fast.”</tspan>
       </text>
 
       <text x="344" y="152" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
-        — Anonymous
+        — Kent Beck
       </text>
 
       <circle cx="346" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
@@ -417,7 +417,7 @@
           <rect x="0" y="0" width="349" height="80" fill="#1e1e1e" rx="4" />
           <rect x="0" y="0" width="4" height="80" fill="#c5ff4a" rx="2" />
           <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#c5ff4a">RookDB</text>
-          <text x="341" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
+          <text x="341" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 1</text>
           <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">A persistent/distributed key-value datab…</text>
           <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#c5ff4a">Go</text>
           
@@ -512,9 +512,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">0                    </tspan><tspan fill="#e5e5e5">0                    </tspan><tspan fill="#3fb950">0</tspan>                      <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  0%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -537,9 +537,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">1                    </tspan><tspan fill="#e5e5e5">0                    </tspan><tspan fill="#3fb950">65</tspan>                     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950"></tspan><tspan fill="#8b949e">──────────────────</tspan>] <tspan fill="#3fb950">  2%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -562,9 +562,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">3                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">130</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  4%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -587,9 +587,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">4                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">195</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#</tspan><tspan fill="#8b949e">─────────────────</tspan>] <tspan fill="#3fb950">  7%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -612,9 +612,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">6                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">260</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950">  9%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -637,9 +637,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">7                    </tspan><tspan fill="#e5e5e5">1                    </tspan><tspan fill="#3fb950">325</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 11%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -662,9 +662,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">8                    </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">390</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">##</tspan><tspan fill="#8b949e">────────────────</tspan>] <tspan fill="#3fb950"> 13%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -687,9 +687,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">10                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">455</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 3</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 15%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -712,9 +712,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">11                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">519</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 3</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">###</tspan><tspan fill="#8b949e">───────────────</tspan>] <tspan fill="#3fb950"> 17%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -737,9 +737,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">13                   </tspan><tspan fill="#e5e5e5">2                    </tspan><tspan fill="#3fb950">584</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 4</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 20%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -762,9 +762,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">14                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">649</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 4</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 3</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 22%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -787,9 +787,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">15                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">714</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 4</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 3</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">####</tspan><tspan fill="#8b949e">──────────────</tspan>] <tspan fill="#3fb950"> 24%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -812,9 +812,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">17                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">779</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 5</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 3</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#####</tspan><tspan fill="#8b949e">─────────────</tspan>] <tspan fill="#3fb950"> 26%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -837,9 +837,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">18                   </tspan><tspan fill="#e5e5e5">3                    </tspan><tspan fill="#3fb950">844</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 5</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 3</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#####</tspan><tspan fill="#8b949e">─────────────</tspan>] <tspan fill="#3fb950"> 28%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -862,9 +862,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">20                   </tspan><tspan fill="#e5e5e5">4                    </tspan><tspan fill="#3fb950">909</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 6</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 4</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">#####</tspan><tspan fill="#8b949e">─────────────</tspan>] <tspan fill="#3fb950"> 30%</tspan>   <tspan fill="#30363d">│</tspan></text>
@@ -887,9 +887,9 @@
     <text x="15" y="156"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Sunder Nagar, Himachal Pradesh (India)</tspan>                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="173"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">portfolio.aryandev.tech</tspan>                                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="190"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Repos                </tspan><tspan fill="#8b949e">Followers            </tspan><tspan fill="#8b949e">Activity</tspan>               <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#e5e5e5">21                   </tspan><tspan fill="#e5e5e5">4                    </tspan><tspan fill="#3fb950">974</tspan>                    <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="207"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="224"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">gotaskq                                      </tspan> <tspan fill="#ffbd2e">★ 6</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="241"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">02</tspan> <tspan fill="#58a6ff">raw-http-c                                   </tspan> <tspan fill="#ffbd2e">★ 4</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="258"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="275"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">LANGUAGES</tspan>                                                        <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="292"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">TypeScript                          </tspan> [<tspan fill="#3fb950">######</tspan><tspan fill="#8b949e">────────────</tspan>] <tspan fill="#3fb950"> 33%</tspan>   <tspan fill="#30363d">│</tspan></text>

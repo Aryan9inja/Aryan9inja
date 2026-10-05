@@ -26,7 +26,7 @@
         "customWebsite": "portfolio.aryandev.tech",
         "showUptime": false,
         "showTerminalPrompt": true,
-        "showTopRepos": false,
+        "showTopRepos": true,
         "hideMetrics": [
           "stars"
         ],
@@ -38,10 +38,13 @@
           "Dockerfile",
           "Makefile",
           "Shell",
-          "HTML",
-          "CSS"
+          "CSS",
+          "HTML"
         ],
-        "hideLangs": "Dockerfile,Makefile,Shell,HTML,CSS"
+        "hideLangs": "Dockerfile,Makefile,Shell,CSS,HTML",
+        "showLanguages": true,
+        "showMetrics": false,
+        "maxRepos": 2
       },
       "locked": true,
       "visible": true,
@@ -172,7 +175,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790313756346_8j7jv",
-    "updatedAt": "2026-09-25T05:22:46.939Z"
+    "revision": "rev_1791192330010_o83uf",
+    "updatedAt": "2026-10-05T09:25:35.838Z"
   }
 }
