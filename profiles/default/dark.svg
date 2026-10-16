@@ -336,11 +336,11 @@
       </g>
 
       <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
-        <tspan x="58" y="94">“Nine people can&apos;t make a baby</tspan><tspan x="58" y="114">in a month.”</tspan>
+        <tspan x="58" y="94">“The best error message is the</tspan><tspan x="58" y="114">one that never shows up.”</tspan>
       </text>
 
       <text x="344" y="152" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
-        — Fred Brooks
+        — Thomas Fuchs
       </text>
 
       <circle cx="346" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
