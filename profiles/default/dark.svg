@@ -336,11 +336,11 @@
       </g>
 
       <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
-        <tspan x="58" y="84">“Optimism is an occupational</tspan><tspan x="58" y="104">hazard of programming: feedback</tspan><tspan x="58" y="124">is the treatment.”</tspan>
+        <tspan x="58" y="84">“Simplicity is about subtracting</tspan><tspan x="58" y="104">the obvious and adding the</tspan><tspan x="58" y="124">meaningful.”</tspan>
       </text>
 
       <text x="344" y="162" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
-        — Kent Beck
+        — John Maeda
       </text>
 
       <circle cx="346" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
