@@ -336,11 +336,11 @@
       </g>
 
       <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
-        <tspan x="58" y="80">“Programs must be written for</tspan><tspan x="58" y="100">people to read, and only</tspan><tspan x="58" y="120">incidentally for machines to</tspan><tspan x="58" y="140">execute.”</tspan>
+        <tspan x="58" y="80">“Any fool can write code that a</tspan><tspan x="58" y="100">computer can understand. Good</tspan><tspan x="58" y="120">programmers write code that</tspan><tspan x="58" y="140">humans can understand.”</tspan>
       </text>
 
       <text x="344" y="168" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
-        — Harold Abelson
+        — Martin Fowler
       </text>
 
       <circle cx="346" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
