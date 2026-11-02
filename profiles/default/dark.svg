@@ -336,11 +336,11 @@
       </g>
 
       <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
-        <tspan x="58" y="84">“There are only two hard things</tspan><tspan x="58" y="104">in Computer Science: cache</tspan><tspan x="58" y="124">invalidation and naming things.”</tspan>
+        <tspan x="58" y="84">“The most dangerous phrase in</tspan><tspan x="58" y="104">the language is, &apos;We&apos;ve always</tspan><tspan x="58" y="124">done it this way.&apos;”</tspan>
       </text>
 
       <text x="344" y="162" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
-        — Phil Karlton
+        — Grace Hopper
       </text>
 
       <circle cx="346" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
