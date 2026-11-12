@@ -336,11 +336,11 @@
       </g>
 
       <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
-        <tspan x="58" y="80">“Always code as if the guy who</tspan><tspan x="58" y="100">ends up maintaining your code</tspan><tspan x="58" y="120">will be a violent psychopath who</tspan><tspan x="58" y="140">knows where you live.”</tspan>
+        <tspan x="58" y="80">“Measuring programming progress</tspan><tspan x="58" y="100">by lines of code is like</tspan><tspan x="58" y="120">measuring aircraft building</tspan><tspan x="58" y="140">progress by weight.”</tspan>
       </text>
 
       <text x="344" y="168" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
-        — John Woods
+        — Bill Gates
       </text>
 
       <circle cx="346" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
